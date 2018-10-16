@@ -2,4 +2,4 @@
 
 Mechanical design by David M. Flynn
 
-ROS driver by ROger Cheng
+ROS driver by Roger Cheng
